@@ -1,0 +1,17 @@
+@keyframes swipeLeft {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 360px;
+  }
+}
+
+@keyframes swipeDown {
+  0% {
+    height: 0;
+  }
+  100% {
+    height: auto;
+  }
+}

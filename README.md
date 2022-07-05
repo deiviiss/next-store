@@ -7,7 +7,9 @@ Curso Oscar Barajas
 
 https://platzi.com/cursos/nextjs-practico/
 
+- -> Ejemplo https://next-store-kappa.vercel.app/
 
+![](https://repository-images.githubusercontent.com/490069812/814c4246-978b-4dfb-b3ec-21f5e3b5c8ee)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
